@@ -2,6 +2,8 @@
 
 Este repositório contém as entregas técnicas esperadas para o Desafio da Fase 3 do projeto PBL (Problem-Based Learning) do 1º ano da Faculdade FIAP. Nesta fase, o foco está na população de dados na nova versão do projeto SGV (Sistema de Gerenciamento de Vídeos), para um e-commerce, usando instruções DML (Data Manipulation Language) e PL/SQL.
 
+# Proposta:
+
 **Entregas Técnicas:**
 
 **- Script DML**
